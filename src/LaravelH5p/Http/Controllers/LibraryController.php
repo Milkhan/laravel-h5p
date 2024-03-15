@@ -2,7 +2,8 @@
 
 namespace Devleaptech\LaravelH5p\Http\Controllers;
 
-use Src\Common\Infrastructure\Laravel\Controller;
+//use Src\Common\Infrastructure\Laravel\Controller;
+use Illuminate\Routing\Controller
 use DB;
 use H5PCore;
 use Devleaptech\LaravelH5p\Eloquents\H5pContent;
